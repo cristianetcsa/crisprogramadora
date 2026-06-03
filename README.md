@@ -45,26 +45,26 @@ Atualmente, estou aprimorando meus conhecimentos em análise de dados, visualiza
 
 ### Análise de Dados
 
-SQL
-Power BI
-Microsoft Excel
-Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Python
 
 ### Banco de Dados
 
-PostgreSQL
+- PostgreSQL
 
 ### Inteligência Artificial
 
-OpenAI
-Copilot
-Gemini
+- OpenAI
+- Copilot
+- Gemini
 
 ### Ferramentas
 
-GIT
-GitHub
-AWS
+- GIT
+- GitHub
+- AWS
 
 ---
 
