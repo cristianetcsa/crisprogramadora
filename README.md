@@ -94,6 +94,6 @@ Atualmente, estou aprimorando meus conhecimentos em análise de dados, visualiza
 ## 🌎 Contato
 
 - LinkedIn: www.linkedin.com/in/cristianetcsa
-- E-mail: crisprogramadora24@outlook.com
+- E-mail: cristianetcsa@gmail.com
 
 📌 Em busca da primeira oportunidade na área de Dados para aplicar conhecimentos, gerar valor e continuar evoluindo profissionalmente
