@@ -48,27 +48,35 @@ Atualmente, estou aprimorando meus conhecimentos em análise de dados, visualiza
 
 ### Análise de Dados
 
-SQL
-Power BI
-Excel
-Python
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/518d2b3a-8e3f-4185-96ce-1af17ca72062" />
+
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/b33d7a07-0ddb-47d1-9892-f0c8794d42dc" />
+
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/6b0a40ea-47c4-4620-bd05-70f43743119e" />
+
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/f67df920-55aa-40e0-b1db-11c0c39a3c98" />
 
 ### Banco de Dados
 
-PostgreSQL
-MySQL
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/6e355a53-3285-47ba-a129-2b0f3f7f5572" />
 
 ### Inteligência Artificial
 
-ChatGPT
-GitHub Copilot
-Google Gemini
+<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/77710a93-5a49-4591-8f81-1db2973129bd" />
+
+<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/08cbc117-256a-4d18-9815-a4420fbab229" />
+
+<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/fc3856a2-d061-432c-a1a7-f0bcfd51c0e2" />
+
 
 ### Ferramentas
 
-Git
-GitHub
-AWS
+<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/cda04a3b-538a-4d53-a7b7-42f6230057c7" />
+
+<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/e8a91d02-2364-49fe-8d4f-fc58abe13cea" />
+
+<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/59e04915-9c99-4bb3-921b-9f264bd8ffd3" />
+
 
 ---
 
