@@ -1,86 +1,112 @@
 # Olá, eu sou Cristiane! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-teixeira-de-castro-de-sá-999803152/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crisprogramadora)
+LinkedIn
+GitHub
 
-Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha trajetória começou na área da educação, onde atuei como pedagoga, psicopedagoga e especialista em educação especial e inclusiva. Porém, movida pelo fascínio pela tecnologia e pela capacidade de solucionar problemas digitais, decidi migrar para a área de desenvolvimento de software.
+📊 Analista de Dados em formação | Power BI | SQL | Excel | Python | IA Generativa
+
+Sou uma profissional em transição para a área de Dados, apaixonada por transformar informações em insights que apoiam a tomada de decisão. Minha trajetória na educação desenvolveu habilidades analíticas, comunicação clara e visão estratégica, competências que hoje aplico na análise e interpretação de dados.
+
+Atualmente, estou aprimorando meus conhecimentos em análise de dados, visualização de informações, Business Intelligence e Inteligência Artificial, construindo projetos práticos e buscando constantemente novos desafios para evoluir profissionalmente.
+
+---
 
 ## 🎯 Sobre Mim
 
-- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas.
-- 💡 **Transição de Carreira**: Da pedagogia para a tecnologia, combinando ensino, criatividade e resolução de problemas.
-- 🖥 **Especialização em Desenvolvimento Web**: Fullstack, com experiência prática em diversas tecnologias.
-- 📊 **Interesse em Dados e Inteligência Artificial**: Aprimorando conhecimentos em Power BI, Excel avançado e IA generativa.
-- 👨‍👩‍👧‍👧 **Família e Motivação**: Casada e mãe de duas filhas adolescentes, encontrando inspiração nelas para sempre evoluir!
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
+- 📊 Foco em Análise de Dados, Business Intelligence e Visualização de Dados
+- 📈 Desenvolvimento de dashboards e relatórios com Power BI e Excel
+- 🗄️ Estudos em SQL, Banco de Dados e Python para análise de dados
+- 🤖 Interesse em Inteligência Artificial Generativa aplicada a negócios
+- 📚 Apaixonada por aprendizado contínuo e resolução de problemas
+- 👨‍👩‍👧‍👧 Casada e mãe de duas filhas, encontrando inspiração diária para crescer e evoluir
+
+---
 
 ## 📚 Formação & Certificações
 
-- **Análise e Desenvolvimento de Sistemas** 
-- **Licenciatura em Pedagogia** (com especialização em Educação Especial e Psicopedagogia)
-- **Bootcamps e Cursos**:
-  - Desenvolvimento Web Fullstack Intensivo
-  - Imersão Frontend - Alura
-  - Power Excel Express (Dashboards com Excel e Power BI)
-  - **Bootcamp IA Generativa - AWS**
-  - **Bootcamp Microsoft Copilot AI - DIO & Microsoft**
-  - **Bootcamp Java Cloud Native - DIO & Bradesco** *(Em andamento)*
-  - **Bootcamp Testes de Software - Instituto Matera** *(Em andamento)*
+### Formação Acadêmica
 
-## 🚀 Habilidades Técnicas
+- Análise e Desenvolvimento de Sistemas
+- Licenciatura em Pedagogia
+- Especialização em Educação Especial e Inclusiva
+- Especialização em Psicopedagogia
 
-### Frontend
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+### Cursos e Bootcamps
 
-### Backend
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+- Power Excel Express (Dashboards com Excel e Power BI)
+- Bootcamp IA Generativa - AWS
+- Bootcamp Microsoft Copilot AI - DIO & Microsoft
+- Bootcamp Java Cloud Native - DIO & Bradesco (Em andamento)
+- Bootcamp Testes de Software - Instituto Matera (Em andamento)
+- Desenvolvimento Web Fullstack Intensivo
+- Imersão Frontend - Alura
+
+---
+
+## 🚀 Competências Técnicas
+
+### Análise de Dados
+
+SQL
+Power BI
+Excel
+Python
 
 ### Banco de Dados
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
-[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+
+PostgreSQL
+MySQL
 
 ### Inteligência Artificial
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]()
-[![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)]()
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)]()
 
-### Frameworks e bibliotecas
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white))]()
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
-[![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]()
+ChatGPT
+GitHub Copilot
+Google Gemini
 
-### Ferramentas e Tecnologias
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+### Ferramentas
 
-[![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=crisprogramadora&show_icons=true&theme=tokyonight)]()
+Git
+GitHub
+AWS
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprogramadora&layout=compact&theme=tokyonight)]()
+---
 
+## 📊 Atualmente Estudando
 
-## Por que me contratar?
+- SQL para análise e manipulação de dados
+- Power BI e Storytelling com Dados
+- Python para análise de dados
+- Modelagem de dados
+- ETL e tratamento de dados
+- Inteligência Artificial aplicada à produtividade e análise
 
-- **Multidisciplinaridade**: Minha experiência em educação me trouxe habilidades como comunicação clara, resolução de conflitos e pensamento crítico, que são essenciais para trabalhar em equipe e entender as necessidades dos usuários.
-- **Adaptabilidade**: Transicionei de carreira com sucesso, demonstrando capacidade de aprendizado rápido e disposição para enfrentar novos desafios.
-- **Paixão por Tecnologia**: Sou movida pela curiosidade e pelo desejo de aprender, sempre buscando me atualizar e me aprofundar em novas tecnologias.
+---
 
-➡️ Veja mais no meu repositório: [github.com/crisprogramadora](https://github.com/crisprogramadora)
+## 📈 Estatísticas GitHub
 
-Sempre em busca de aprendizado e desafios! Vamos construir algo incrível juntos? 😃
+Estatísticas do Github
 
-## 🌎 Onde me encontrar
+Top Linguagens
 
-- **LinkedIn**: www.linkedin.com/in/cristiane-teixeira-de-castro-de-sá-999803152
-- **E-mail**: crisprogramadora24@outlook.com
+---
+
+## 💡 Diferenciais
+
+✨ Comunicação clara e capacidade analítica desenvolvidas ao longo da carreira na educação.
+
+✨ Facilidade em traduzir dados e informações complexas em insights compreensíveis.
+
+✨ Perfil colaborativo, organizado e orientado à resolução de problemas.
+
+✨ Aprendizado rápido e constante evolução profissional.
+
+---
+
+## 🌎 Contato
+
+- LinkedIn: www.linkedin.com/in/cristiane-teixeira-de-castro-de-sá-999803152
+- GitHub: github.com/crisprogramadora
+- E-mail: crisprogramadora24@outlook.com
+
+📌 Em busca da primeira oportunidade na área de Dados para aplicar conhecimentos, gerar valor e continuar evoluindo profissional
