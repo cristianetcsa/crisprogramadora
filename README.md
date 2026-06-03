@@ -1,7 +1,5 @@
 # Olá, eu sou Cristiane! 👋
 
-LinkedIn
-
 📊 Analista de Dados em formação | Power BI | SQL | Excel | Python | IA Generativa
 
 Sou uma profissional em transição para a área de Dados, apaixonada por transformar informações em insights que apoiam a tomada de decisão. Minha trajetória na educação desenvolveu habilidades analíticas, comunicação clara e visão estratégica, competências que hoje aplico na análise e interpretação de dados.
@@ -47,35 +45,26 @@ Atualmente, estou aprimorando meus conhecimentos em análise de dados, visualiza
 
 ### Análise de Dados
 
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/34651e66-c257-4d69-b6d8-16cc7a0db357" />
-
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/fbdbea3b-7775-441b-bdbb-570cb6651d1d" />
-
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/939e0108-d2fb-4b3f-b047-e967ffd100f9" />
-
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/1bac5180-85c5-4485-9e86-fd822df0855e" />
+SQL
+Power BI
+Microsoft Excel
+Python
 
 ### Banco de Dados
 
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/6e355a53-3285-47ba-a129-2b0f3f7f5572" />
+PostgreSQL
 
 ### Inteligência Artificial
 
-<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/77710a93-5a49-4591-8f81-1db2973129bd" />
-
-<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/08cbc117-256a-4d18-9815-a4420fbab229" />
-
-<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/fc3856a2-d061-432c-a1a7-f0bcfd51c0e2" />
-
+OpenAI
+Copilot
+Gemini
 
 ### Ferramentas
 
-<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/cda04a3b-538a-4d53-a7b7-42f6230057c7" />
-
-<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/e8a91d02-2364-49fe-8d4f-fc58abe13cea" />
-
-<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/59e04915-9c99-4bb3-921b-9f264bd8ffd3" />
-
+GIT
+GitHub
+AWS
 
 ---
 
@@ -87,14 +76,6 @@ Atualmente, estou aprimorando meus conhecimentos em análise de dados, visualiza
 - Modelagem de dados
 - ETL e tratamento de dados
 - Inteligência Artificial aplicada à produtividade e análise
-
----
-
-## 📈 Estatísticas GitHub
-
-Estatísticas do Github
-
-Top Linguagens
 
 ---
 
@@ -112,8 +93,7 @@ Top Linguagens
 
 ## 🌎 Contato
 
-- LinkedIn: www.linkedin.com/in/cristiane-teixeira-de-castro-de-sá-999803152
-- GitHub: github.com/crisprogramadora
+- LinkedIn: www.linkedin.com/in/cristianetcsa
 - E-mail: crisprogramadora24@outlook.com
 
-📌 Em busca da primeira oportunidade na área de Dados para aplicar conhecimentos, gerar valor e continuar evoluindo profissional
+📌 Em busca da primeira oportunidade na área de Dados para aplicar conhecimentos, gerar valor e continuar evoluindo profissionalmente
