@@ -1,7 +1,6 @@
 # Olá, eu sou Cristiane! 👋
 
 LinkedIn
-GitHub
 
 📊 Analista de Dados em formação | Power BI | SQL | Excel | Python | IA Generativa
 
@@ -48,13 +47,13 @@ Atualmente, estou aprimorando meus conhecimentos em análise de dados, visualiza
 
 ### Análise de Dados
 
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/518d2b3a-8e3f-4185-96ce-1af17ca72062" />
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/34651e66-c257-4d69-b6d8-16cc7a0db357" />
 
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/b33d7a07-0ddb-47d1-9892-f0c8794d42dc" />
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/fbdbea3b-7775-441b-bdbb-570cb6651d1d" />
 
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/6b0a40ea-47c4-4620-bd05-70f43743119e" />
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/939e0108-d2fb-4b3f-b047-e967ffd100f9" />
 
-<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/f67df920-55aa-40e0-b1db-11c0c39a3c98" />
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/1bac5180-85c5-4485-9e86-fd822df0855e" />
 
 ### Banco de Dados
 
